@@ -1,8 +1,10 @@
 # wiki_twice
 
-A new Flutter project.
+<h4>My First App About Twice</h4>
 
 ## Getting Started
+
+Some Resources:
 
 This project is a starting point for a Flutter application.
 
