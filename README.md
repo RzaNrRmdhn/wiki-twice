@@ -1,8 +1,8 @@
 # wiki_twice
 
-<h4>My First App About Twice</h4>
+<h2>My First App About Twice</h2>
 
-## Getting Started
+### Getting Started
 
 Some Resources:
 
